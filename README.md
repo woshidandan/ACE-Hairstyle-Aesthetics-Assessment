@@ -4,7 +4,7 @@
 
 ### Thinking 3D Object Aesthetics Assessment: Employing Hairstyle Aesthetics Assessment as An Exemplification
 
-**Shuai He · Hongkun Ruan · Anlong Ming<sup>*</sup> · Zhaowen Lin · Haiyang Zhang**
+**Shuai He · Hongkun Ruan · Anlong Ming · Zhaowen Lin · Haiyang Zhang**
 
 Beijing University of Posts and Telecommunications
 
